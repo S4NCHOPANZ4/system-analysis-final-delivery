@@ -1,10 +1,3 @@
-This project simulates the development and dynamics of kidney blood vessels using a **Cellular Automaton** written in **Python** with **Tkinter** and **Pillow**. It models arteries, vessels, aneurysms, glomeruli, dead cells, and their behaviors in a histological grid.
-
-
----
-
-## 📼 Demo 
-
 ![Demo](./Demo.gif)
 
 

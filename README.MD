@@ -73,7 +73,7 @@ EXPLOSION_RADIUS = 2              # Radius affected by aneurysm explosion
    - Dead (D)
    - Empty (T)
    - Hypoxia (H)
-3. Alternatively, you can upload a histological image of a kidney for better analysis, located in [images_to_use](./Workshop_3_Simulation/data/images_to_use/)
+3. Alternatively, you can upload a histological image of a kidney for better analysis, located in [images_to_use](./Simulation/data/images_to_use/)
 4. Click on the grid to place cells.
 5. Click **Start Simulation** to begin.
 6. Use **Step** to advance the simulation manually.

@@ -22,16 +22,6 @@ This project simulates the development and dynamics of kidney blood vessels usin
 | **Glomerulus**   | `G`  | Green                        | Static biological filters. Marked as `G` when well vascularized.<br>Becomes `GF` (failing) if poorly irrigated (low vessel/artery support). |
 | **Glomerulus (Failing)** | `GF` | Olive                     | Degrades from `G` if lacking support from nearby vessels or arteries.                                                                    |
 
----
-
-## 🧠 Color Behavior
-
-- **Vessels** (`V`) get **darker blue** when surrounded by more vessels or arteries (8 directions), and become lighter as they're isolated.
-- **Aneurysms** are marked with a **bright orange**.
-- **Glomeruli** are **green** when functional, and **olive** (`GF`) when not sufficiently irrigated.
-
----
-
 ## 🖼️ Image Integration
 
 - You can **load grayscale kidney histology images** and convert them into grid states.
@@ -92,3 +82,19 @@ EXPLOSION_RADIUS = 2              # Radius affected by aneurysm explosion
 - pip             23.2.1
 - pyparsing       3.2.3
 - Tkinter  (pre-installed with Python)
+
+---
+
+## 📥 Installation
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/tu_usuario/tu_repo.git
+cd tu_repo
+pip install -r requirements.txt
+```
+
+Make sure you are using **Python 3.x**.
+
+

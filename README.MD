@@ -91,11 +91,10 @@ EXPLOSION_RADIUS = 2              # Radius affected by aneurysm explosion
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/tu_usuario/tu_repo.git
-cd tu_repo
+git clone https://github.com/S4NCHOPANZ4/system-analysis-final-delivery.git
+cd system-analysis-final-delivery
 pip install -r requirements.txt
 ```
 
 Make sure you are using **Python 3.x**.
-
 
